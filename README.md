@@ -16,7 +16,7 @@ const sisifodev = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisifodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">currently jamming to</p>
+
 <p align="center">
   <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
