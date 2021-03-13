@@ -17,12 +17,7 @@ const sisifodev = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisifodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">
-  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
-  </a>
-</p>
+[![Spotify](https://readme-spotify.deadshot674gam.vercel.app/api/spotify)](https:/open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
 
 <!--
 **SisifoDev/SisifoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
