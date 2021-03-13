@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Manuel 👋 
 
 ### About me...  
 
@@ -11,6 +11,8 @@ const sisifodev = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
+
+
 
 <!--
 **SisifoDev/SisifoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
