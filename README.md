@@ -16,6 +16,11 @@ const sisifodev = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisifodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  </a>
+
 <!--
 **SisifoDev/SisifoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
