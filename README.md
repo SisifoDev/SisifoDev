@@ -22,7 +22,7 @@
 <a href="https://instagram.com/manuelperd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manuelperd" height="30" width="40" /></a>
 </p>
 -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, tools, lframeworks and others ...</h3>
 <p align="left"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
